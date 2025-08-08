@@ -1,3 +1,4 @@
 dbt-core
 dbt-snowflake
 pandas
+jupyter
